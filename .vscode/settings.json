@@ -1,0 +1,7 @@
+{
+  "editor.fontFamily": " '霞鹜文楷', '霞鹜文楷',  '霞鹜文楷'",
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "cstdlib": "c"
+  }
+}
